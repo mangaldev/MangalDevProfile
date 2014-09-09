@@ -1,0 +1,76 @@
+.navbar .nav>li>a.brand {
+    padding-left:20px;
+    margin-left:0
+}
+
+.content {
+    margin-top:50px;
+    width:100%
+}
+
+
+footer {
+    position:fixed;
+    left:0px;
+    bottom:0px;
+    height:30px;
+    width:100%;
+    background:#ddd;
+    -webkit-box-shadow:0 8px 6px 6px black;
+    -moz-box-shadow:0 8px 6px 6px black;
+    box-shadow:0 8px 6px 6px black
+}
+
+footer p {
+    padding:5px 0 12px 10px
+}
+
+.modal {
+    display: block;
+}
+
+.panel-default>.panel-heading {
+    background-color: rgba(255, 255, 255, 0.9);
+    color: #563d7c;
+    font-size: 20px;
+    line-height: 1;
+}
+
+
+
+.section-title {
+font-family: 'Lato','Droid Sans',sans-serif;
+font-weight: 200;
+font-size: 15px;
+line-height: 12px;
+color: #000;
+}
+
+.search-title {
+color: rgb(107, 13, 228);
+font-weight: 500;
+font-size: 19px;
+}
+
+.profile-img {
+background-image: url(//lh3.googleusercontent.com/-Eg2s2ETH92k/AAAAAAAAAAI/AAAAAAAAAAA/jBhMm26vU0c/s32-c/photo.jpg);
+}
+
+.profile-img-css {
+background-size: 32px 32px;
+border-radius: 50%;
+display: block;
+margin: 10px;
+height: 32px;
+width: 32px;
+}
+
+.spacer50 { 
+    height: 50px; 
+    width: 100%;
+     font-size: 0; 
+     margin: 0; 
+     padding: 0; 
+     border: 0; 
+     display: block; 
+ }
